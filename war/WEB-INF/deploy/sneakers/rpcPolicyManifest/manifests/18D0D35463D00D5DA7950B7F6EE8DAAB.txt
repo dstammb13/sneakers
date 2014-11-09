@@ -1,0 +1,2 @@
+serviceClass: com.dstammb.sneakers.client.GreetingService
+path: 46EF5A51F23A53C98F189BD561FE98CE.gwt.rpc
